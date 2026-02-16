@@ -1,2 +1,1 @@
-
-قطع غيار السيارات
+github/workflows/main.yml
